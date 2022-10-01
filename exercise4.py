@@ -1,4 +1,4 @@
-# Author: Chen Shtar 318731411 and David Bogoslavsky 316393974
+# Author: David Bogoslavsky
 import sys
 import math
 import random
